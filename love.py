@@ -95,9 +95,8 @@ def main():
  
     print logo
  
-    print("")
- 
     print("\033[0;92m[ LETS START ]").center(50)
+
  
     print("\033[1;91m╔═════════•ೋೋ•═════════╗")
     print("\033[1;91m  [1]\033[1;92mSTART CLONING")
@@ -109,7 +108,7 @@ def main():
  
 def main_select():
  
-    Mz = raw_input("\033[1;91m[•] Choose Opition --->\033[1;96m ")
+    Mz = raw_input("\033[1;93m[•] Choose Opition --->\033[1;96m ")
  
     if Mz  =="1":
  
